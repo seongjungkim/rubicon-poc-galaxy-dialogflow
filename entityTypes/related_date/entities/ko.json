@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "출시일",
+    "synonyms": [ "출시 날짜", "출시 일정", "출시날짜", "출시일", "출시일정" ],
+    "languageCode": "ko"
+  }, {
+    "value": "며칠",
+    "synonyms": [ "며칠" ],
+    "languageCode": "ko"
+  } ]
+}

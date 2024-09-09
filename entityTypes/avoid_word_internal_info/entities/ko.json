@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "채용",
+    "synonyms": [ "공채", "채용" ],
+    "languageCode": "ko"
+  }, {
+    "value": "연봉",
+    "synonyms": [ "연봉", "초봉" ],
+    "languageCode": "ko"
+  }, {
+    "value": "입사",
+    "synonyms": [ "입사" ],
+    "languageCode": "ko"
+  } ]
+}

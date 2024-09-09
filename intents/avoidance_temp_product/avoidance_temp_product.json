@@ -1,0 +1,13 @@
+{
+  "name": "ddc88207-4e17-430b-80d5-c584433bf473",
+  "displayName": "avoidance_temp_product",
+  "parameters": [ {
+    "id": "product",
+    "entityType": "@product"
+  }, {
+    "id": "forbidden_word",
+    "entityType": "@forbidden_word"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,10 @@
+{
+  "name": "e2e77e0b-7cb5-4c19-9723-dea25d8437e3",
+  "displayName": "product.comparison",
+  "genericWebService": {
+    "uri": "https://dialogflow-fulfillment-jr6kniykka-du.a.run.app/product/comparison"
+  },
+  "timeout": {
+    "seconds": 20
+  }
+}

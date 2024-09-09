@@ -1,0 +1,13 @@
+{
+  "name": "195e1075-7d9f-4302-9b3a-1b9a43652f81",
+  "displayName": "promotion.query",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "date-time1",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

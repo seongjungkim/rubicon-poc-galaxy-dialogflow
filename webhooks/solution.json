@@ -1,0 +1,10 @@
+{
+  "name": "03095066-3505-4fd4-9560-93d33a6d63c5",
+  "displayName": "solution",
+  "genericWebService": {
+    "uri": "https://dialogflow-fulfillment-jr6kniykka-du.a.run.app/solution/"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

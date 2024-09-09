@@ -1,0 +1,100 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Galaxy S",
+      "auto": true
+    }, {
+      "text": "24",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "특징",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "설명"
+    }, {
+      "text": "해주세요.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사진",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": "에 나오는",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S",
+      "auto": true
+    }, {
+      "text": "24"
+    }, {
+      "text": "와 S",
+      "auto": true
+    }, {
+      "text": "23",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "카메라",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": " 기능을 비교해 줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삼성페이",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": " 사용법 알려줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤24 주요 "
+    }, {
+      "text": "특징",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": "은 뭐야?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24"
+    }, {
+      "text": " "
+    }, {
+      "text": "카메라",
+      "parameterId": "attribute"
+    }, {
+      "text": "에 대해 설명해 줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "3e0011cb-c4cc-4a5e-a4ec-babd514fd9dc",
+  "displayName": "Comparison Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "product.comparison",
+    "tag": "product comparison"
+  }
+}

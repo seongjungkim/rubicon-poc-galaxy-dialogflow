@@ -1,0 +1,10 @@
+{
+  "name": "03e29726-1044-47fa-8377-21e8e75ff54e",
+  "displayName": "order",
+  "genericWebService": {
+    "uri": "https://dialogflow-fulfillment-jr6kniykka-du.a.run.app/order/"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

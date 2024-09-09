@@ -1,0 +1,10 @@
+{
+  "name": "a1f1ff6d-1416-4f22-aacf-2814e80e885d",
+  "displayName": "not_related",
+  "parameters": [ {
+    "id": "no_relation",
+    "entityType": "@avoid_word_internal_info"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

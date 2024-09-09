@@ -1,0 +1,193 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "이랑 어떤게 더 좋아?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "출시되고나서 ",
+      "auto": true
+    }, {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": "전자",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "주식",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 올랐을까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": "전자"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "주식",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 올랐을까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시와 ",
+      "auto": true
+    }, {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": " 중에 뭐가 더 좋으",
+      "auto": true
+    }, {
+      "text": "려나",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "주가",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "는 어떻게 될까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "주가",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "는 어때?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시와 ",
+      "auto": true
+    }, {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": " 중에",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": " 중에",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삼성"
+    }, {
+      "text": "전자"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "주식",
+      "parameterId": "forbidden_word",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "주식",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": " 알려줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "재드래곤형",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "은",
+      "auto": true
+    }, {
+      "text": " 요즘 뭐해?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시와 ",
+      "auto": true
+    }, {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "을 비교해 줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아이폰과",
+      "parameterId": "forbidden_word"
+    }, {
+      "text": " "
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "16442213-167f-4a4c-a49f-c45f3d43e672",
+  "displayName": "avoid.internal_info",
+  "parameters": [ {
+    "id": "avoid_word_internal_info",
+    "entityType": "@avoid_word_internal_info"
+  } ],
+  "priority": 500000,
+  "description": "회피로 답해야하는 Intent - 채용이나 연봉 등",
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,138 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.welcome" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "generators": [ {
+        "generator": "projects/samsung-poc-425503/locations/global/agents/f0cd1f27-d3e9-427c-9f59-fc7bac7a7b1c/generators/e4a33a7b-3e52-4098-a493-07b6dad52582",
+        "outputParameter": "$request.generative.welcome"
+      } ]
+    },
+    "name": "e3790aeb-c6f4-4ced-b7ac-37d23045fa85"
+  }, {
+    "intent": "avoidance.phrase",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.sensitive" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "generators": [ {
+        "generator": "projects/samsung-poc-425503/locations/global/agents/f0cd1f27-d3e9-427c-9f59-fc7bac7a7b1c/generators/2c7fe943-d55a-4e9d-91d4-699aad5ebf0f",
+        "outputParameter": "$request.generative.sensitive"
+      } ]
+    },
+    "targetPage": "Avoidance Page",
+    "name": "3246e486-a371-48e3-9b82-2b65004a1be8"
+  }, {
+    "intent": "galaxy.query",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Product Page",
+    "name": "0fd2b114-06e3-43cf-97c2-bc632598c8a8"
+  }, {
+    "intent": "solution.query",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Solution Page",
+    "name": "913368a4-ea70-4144-9388-cc0aa0287714"
+  }, {
+    "intent": "release_date.query",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Release Page",
+    "name": "27b6bdef-31a1-4b10-b343-cee4d47bd78c"
+  }, {
+    "intent": "price.query",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Price Page",
+    "name": "96e21c7c-9f4c-4025-aff9-28daff695b15"
+  }, {
+    "intent": "non_avoidance.query",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Non Avoidance",
+    "name": "f9e273a5-8fba-4882-8006-de92a5cf0e86"
+  }, {
+    "intent": "avoidance_temp_product",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.sensitive" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "generators": [ {
+        "generator": "projects/samsung-poc-425503/locations/global/agents/f0cd1f27-d3e9-427c-9f59-fc7bac7a7b1c/generators/2c7fe943-d55a-4e9d-91d4-699aad5ebf0f",
+        "outputParameter": "$request.generative.sensitive"
+      } ]
+    },
+    "targetPage": "Avoidance Page 2(Product Matching)",
+    "name": "ac281d31-0e5f-4713-86e4-19b596a55ea8"
+  }, {
+    "intent": "product.comparison",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Comparison Page",
+    "name": "5b8a725c-fd39-4da5-b537-384f60846d85"
+  }, {
+    "intent": "avoid.internal_info",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.generative.sensitive" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "generators": [ {
+        "generator": "projects/samsung-poc-425503/locations/global/agents/f0cd1f27-d3e9-427c-9f59-fc7bac7a7b1c/generators/488a0738-0281-407a-874a-171174c1069d",
+        "outputParameter": "$request.generative.sensitive"
+      } ]
+    },
+    "targetPage": "Avoidance Page",
+    "name": "a477c197-ecbc-4eb8-86ff-15208292e4fc",
+    "description": "회피답변 질문 - 내부 정보 묻는 질문 "
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "generators": [ {
+        "generator": "projects/samsung-poc-425503/locations/global/agents/f0cd1f27-d3e9-427c-9f59-fc7bac7a7b1c/generators/e4a33a7b-3e52-4098-a493-07b6dad52582",
+        "outputParameter": "$request.generative."
+      } ]
+    },
+    "name": "edf165a2-9aa5-4d1f-8294-93d9e1ef1bd2"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "마지막에 말씀을 잘 못 이해 한것 같아요.", "방금 하신 말씀을 잘 못 알아들었어요.", "죄송해요. 다시 들려 주실래요?", "제가 제대로 이해하고 있는지 잘 모르겠어요.", "제가 제대로 이해하지 못한것 같아요. 죄송해요.", "조금 헷갈리는데요." ]
+        },
+        "languageCode": "ko"
+      } ]
+    },
+    "name": "3dd64d32-d6e4-42ba-af76-e92ea9e61609"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.40000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC"
+  }
+}

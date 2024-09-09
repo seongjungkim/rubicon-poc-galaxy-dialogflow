@@ -1,0 +1,31 @@
+{
+  "entities": [ {
+    "value": "특장점",
+    "synonyms": [ "장점", "특장점", "특징" ],
+    "languageCode": "ko"
+  }, {
+    "value": "카메라",
+    "synonyms": [ "사진", "카메라", "카메라 기능", "카메라 사양" ],
+    "languageCode": "ko"
+  }, {
+    "value": "저장장치",
+    "synonyms": [ "저장소", "저장장치" ],
+    "languageCode": "ko"
+  }, {
+    "value": "AI",
+    "synonyms": [ "서클", "서클 검색", "서클로 검색", "AI" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스와이프 제스처",
+    "synonyms": [ "스와이프", "스와이프 제스처", "제스처" ],
+    "languageCode": "ko"
+  }, {
+    "value": "보호필름",
+    "synonyms": [ "보호 필름", "보호필름", "필름", "화면 필름" ],
+    "languageCode": "ko"
+  }, {
+    "value": "배터리",
+    "synonyms": [ "배터리" ],
+    "languageCode": "ko"
+  } ]
+}

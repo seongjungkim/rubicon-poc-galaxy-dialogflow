@@ -1,0 +1,118 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "256gb ",
+      "auto": true
+    }, {
+      "text": "얼마야?",
+      "parameterId": "price",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가격",
+      "parameterId": "price",
+      "auto": true
+    }, {
+      "text": " 확인해줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가격",
+      "parameterId": "price",
+      "auto": true
+    }, {
+      "text": " 알려줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "출시",
+      "auto": true
+    }, {
+      "text": "가격",
+      "parameterId": "price",
+      "auto": true
+    }, {
+      "text": "은",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "얼마야?",
+      "parameterId": "price",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가격",
+      "parameterId": "price"
+    }, {
+      "text": " 저장 용량별로 보여줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수리비",
+      "parameterId": "price"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 제품"
+    }, {
+      "text": "은",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "얼마",
+      "parameterId": "price"
+    }, {
+      "text": "에요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가장 "
+    }, {
+      "text": "저렴",
+      "parameterId": "price"
+    }, {
+      "text": "한 모델은 무엇인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "액정 수리 "
+    }, {
+      "text": "비용",
+      "parameterId": "price"
+    }, {
+      "text": "은 "
+    }, {
+      "text": "얼마나",
+      "parameterId": "price"
+    }, {
+      "text": " 들어요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

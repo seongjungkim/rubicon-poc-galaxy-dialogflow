@@ -1,0 +1,12 @@
+{
+  "excludedPhrases": [ {
+    "value": "출시",
+    "languageCode": "ko"
+  }, {
+    "value": "출시하면",
+    "languageCode": "ko"
+  }, {
+    "value": "출시되고나서",
+    "languageCode": "ko"
+  } ]
+}

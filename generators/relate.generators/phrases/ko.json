@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "$intent.params.product-temp 를 JSON_object 파일의 model과 일치하는 게 있다면 model과 release_date의 표를 만들어서 요약해줘. 일치하는 게 없으면 \"잘 모르겠습니다.\"라고 답변해줘.\n\n[{'model': '갤럭시 S23', 'release_date': '23년 02월'}, {'model': '갤럭시 S23 Ultra', 'release_date': '23년 02월'}, {'model': '갤럭시 S23+', 'release_date': '23년 02월'}, {'model': '갤럭시 S24', 'release_date': '24년 1월'}, {'model': '갤럭시 S24 Ultra', 'release_date': '24년 1월'}, {'model': '갤럭시 S24+', 'release_date': '24년 1월'}]",
+    "languageCode": "ko"
+  } ]
+}

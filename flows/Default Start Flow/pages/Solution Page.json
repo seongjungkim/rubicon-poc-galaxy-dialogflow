@@ -1,0 +1,11 @@
+{
+  "name": "4f077b00-7bb3-436c-a20b-5ab914b33a4b",
+  "displayName": "Solution Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "solution",
+    "tag": "solution"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "2c7fe943-d55a-4e9d-91d4-699aad5ebf0f",
+  "displayName": "avoidance.response",
+  "modelParameter": {
+    "temperature": 0.40000001,
+    "maxDecodeSteps": 3475,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

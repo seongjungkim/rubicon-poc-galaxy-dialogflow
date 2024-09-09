@@ -1,0 +1,43 @@
+{
+  "entities": [ {
+    "value": "Iphone",
+    "synonyms": [ "아이뻐", "아이폰", "iphone", "Iphone" ],
+    "languageCode": "ko"
+  }, {
+    "value": "아이폰14",
+    "synonyms": [ "아이폰 14", "아이폰14", "iphone 14", "Iphone 14", "iphone14", "Iphone14" ],
+    "languageCode": "ko"
+  }, {
+    "value": "아이폰15",
+    "synonyms": [ "아이폰 15 ", "아이폰15", "iphone 15", "Iphone 15", "iphone15", "Iphone15" ],
+    "languageCode": "ko"
+  }, {
+    "value": "애플",
+    "synonyms": [ "애플" ],
+    "languageCode": "ko"
+  }, {
+    "value": "현대",
+    "synonyms": [ "현대", "Hyundai", "HYUNDAI" ],
+    "languageCode": "ko"
+  }, {
+    "value": "샤오미",
+    "synonyms": [ "샤오미" ],
+    "languageCode": "ko"
+  }, {
+    "value": "연봉",
+    "synonyms": [ "연봉" ],
+    "languageCode": "ko"
+  }, {
+    "value": "주식",
+    "synonyms": [ "매도", "매수", "주가", "주식", "주식 정보", "주가는" ],
+    "languageCode": "ko"
+  }, {
+    "value": "마이크로소프트",
+    "synonyms": [ "마이크로소프트", "Microsoft" ],
+    "languageCode": "ko"
+  }, {
+    "value": "재드래곤",
+    "synonyms": [ "재드래곤", "재드래곤형", "재용" ],
+    "languageCode": "ko"
+  } ]
+}

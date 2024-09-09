@@ -1,0 +1,13 @@
+{
+  "name": "91e5ca84-ea67-454c-91bd-1a25de582914",
+  "displayName": "avoidance.phrase",
+  "parameters": [ {
+    "id": "forbidden_word",
+    "entityType": "@forbidden_word"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 13
+}

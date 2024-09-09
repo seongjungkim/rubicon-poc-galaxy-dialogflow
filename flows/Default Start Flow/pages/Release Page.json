@@ -1,0 +1,11 @@
+{
+  "name": "f0127706-2245-4d34-92bf-b6a75e8a8d97",
+  "displayName": "Release Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "get_release_date",
+    "tag": "release date"
+  }
+}

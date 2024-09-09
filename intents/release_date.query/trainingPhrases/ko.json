@@ -1,0 +1,97 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "갤럭시 S24 Ultra",
+      "parameterId": "product-temp",
+      "auto": true
+    }, {
+      "text": "의 "
+    }, {
+      "text": "출시일",
+      "parameterId": "related_date"
+    }, {
+      "text": "을 알고 싶어요"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 s23",
+      "parameterId": "product-temp",
+      "auto": true
+    }, {
+      "text": "의 "
+    }, {
+      "text": "출시일",
+      "parameterId": "related_date"
+    }, {
+      "text": "은 언제인가요"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24",
+      "parameterId": "product-temp",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "출시 날짜",
+      "parameterId": "related_date"
+    }, {
+      "text": "는 어떻게 돼?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24",
+      "parameterId": "product-temp",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "출시 시점",
+      "parameterId": "related_date"
+    }, {
+      "text": "은 어떻게 돼?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24",
+      "parameterId": "product-temp",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "출시일",
+      "parameterId": "related_date"
+    }, {
+      "text": "은 어떻게 돼?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S23",
+      "parameterId": "product-temp"
+    }, {
+      "text": " "
+    }, {
+      "text": "출시일",
+      "parameterId": "related_date"
+    }, {
+      "text": "은 "
+    }, {
+      "text": "언제",
+      "parameterId": "date"
+    }, {
+      "text": "인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

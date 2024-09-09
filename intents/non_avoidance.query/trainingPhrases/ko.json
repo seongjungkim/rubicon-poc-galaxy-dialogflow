@@ -1,0 +1,281 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "제 핸드폰에서 ",
+      "auto": true
+    }, {
+      "text": "써클"
+    }, {
+      "text": "투서치 기능 사용할 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "울트라에 대해서 알려줘.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "내 개인",
+      "auto": true
+    }, {
+      "text": "정보",
+      "auto": true
+    }, {
+      "text": "가",
+      "auto": true
+    }, {
+      "text": " 저장 잘 되고 있는지 너무너무 불안",
+      "auto": true
+    }, {
+      "text": "한데",
+      "auto": true
+    }, {
+      "text": " 괜찮은거 맞아?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "나",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "3년",
+      "auto": true
+    }, {
+      "text": " 넘게 쓰던 S",
+      "auto": true
+    }, {
+      "text": "20",
+      "auto": true
+    }, {
+      "text": " 핸드폰",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 이제 고장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나서 새로운 핸드폰을 사려고 ",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "새로운 핸드폰을 사려고",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "스크린 사이즈",
+      "parameterId": "attribute"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "여긴 ",
+      "auto": true
+    }, {
+      "text": "무슨 지점",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": "이야?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "대치센터",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "주소",
+      "parameterId": "location"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "색깔",
+      "parameterId": "attribute"
+    }, {
+      "text": " 뭐 있어"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "eSIM",
+      "parameterId": "attribute"
+    }, {
+      "text": "을 "
+    }, {
+      "text": "지원",
+      "auto": true
+    }, {
+      "text": "하는 스마트"
+    }, {
+      "text": "폰",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "추천",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": " 주세요.,"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "배터리",
+      "parameterId": "attribute",
+      "auto": true
+    }, {
+      "text": "가 오래",
+      "auto": true
+    }, {
+      "text": "가는 ",
+      "auto": true
+    }, {
+      "text": "모델",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "추천",
+      "auto": true
+    }, {
+      "text": "해줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 최신 "
+    }, {
+      "text": "OS 버전",
+      "parameterId": "attribute"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 "
+    }, {
+      "text": "네비게이션바",
+      "parameterId": "attribute"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": "전자 대치 서비스센터",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "주소",
+      "parameterId": "location"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 제품 ",
+      "auto": true
+    }, {
+      "text": "추천",
+      "auto": true
+    }, {
+      "text": "해줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시에 대해서 서술해줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "스마트싱스 ",
+      "auto": true
+    }, {
+      "text": "에어컨",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "연결",
+      "auto": true
+    }, {
+      "text": "은",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

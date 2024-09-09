@@ -1,0 +1,75 @@
+{
+  "entities": [ {
+    "value": "보호필름 부착",
+    "synonyms": [ "보호필름 부착" ],
+    "languageCode": "ko"
+  }, {
+    "value": "초기화 방법",
+    "synonyms": [ "초기화 방법" ],
+    "languageCode": "ko"
+  }, {
+    "value": "유심(USIM)/심카드 인식",
+    "synonyms": [ "유심(USIM)/심카드 인식" ],
+    "languageCode": "ko"
+  }, {
+    "value": "수리모드",
+    "synonyms": [ "수리모드" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스마트폰 초기화 방법",
+    "synonyms": [ "스마트폰 초기화 방법" ],
+    "languageCode": "ko"
+  }, {
+    "value": "내비게이션 바",
+    "synonyms": [ "내비게이션 바" ],
+    "languageCode": "ko"
+  }, {
+    "value": "서클로 검색",
+    "synonyms": [ "서클로 검색", "circle to search" ],
+    "languageCode": "ko"
+  }, {
+    "value": "봉인 라벨 제거",
+    "synonyms": [ "봉인 라벨 제거" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스와이프 제스처",
+    "synonyms": [ "스와이프 제스처" ],
+    "languageCode": "ko"
+  }, {
+    "value": "실시간 통역 기능",
+    "synonyms": [ " AI 실시간 통역 사용 방법", "실시간 통역 기능" ],
+    "languageCode": "ko"
+  }, {
+    "value": "보호필름교체방법",
+    "synonyms": [ "보호 필름 부착", "보호필름교체방법" ],
+    "languageCode": "ko"
+  }, {
+    "value": "브라우저 어시스트",
+    "synonyms": [ "브라우저 어시스트", "브라우징 어시스트" ],
+    "languageCode": "ko"
+  }, {
+    "value": "노트 AI 기능",
+    "synonyms": [ "노트 어시스트 기능", "노트 AI 기능" ],
+    "languageCode": "ko"
+  }, {
+    "value": "잠금화면에 현재 날씨 효과 적용",
+    "synonyms": [ "잠금화면에 현재 날씨 효과 적용" ],
+    "languageCode": "ko"
+  }, {
+    "value": "제안되는 사진 편집 기능",
+    "synonyms": [ "생성형 사진 편집 기능", "제안되는 사진 편집 기능" ],
+    "languageCode": "ko"
+  }, {
+    "value": " s펜 사용 및 설정 방법",
+    "synonyms": [ " s펜 사용 및 설정 방법" ],
+    "languageCode": "ko"
+  }, {
+    "value": "글쓰기 어시스트 기능",
+    "synonyms": [ "글쓰기 어시스트 기능", "대화 어시스트", "채팅 어시스트" ],
+    "languageCode": "ko"
+  }, {
+    "value": "퀵 쉐어",
+    "synonyms": [ "   Quick Share", "퀵 쉐어" ],
+    "languageCode": "ko"
+  } ]
+}

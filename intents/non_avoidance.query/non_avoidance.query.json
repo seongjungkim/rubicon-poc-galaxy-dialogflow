@@ -1,0 +1,13 @@
+{
+  "name": "08cb6b9a-444f-45d9-b9a9-57fcdbd47ea2",
+  "displayName": "non_avoidance.query",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "attribute",
+    "entityType": "@attribute"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 17
+}

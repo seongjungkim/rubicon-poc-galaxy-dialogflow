@@ -1,0 +1,13 @@
+{
+  "name": "e4a33a7b-3e52-4098-a493-07b6dad52582",
+  "displayName": "welcome.phrase",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 2128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

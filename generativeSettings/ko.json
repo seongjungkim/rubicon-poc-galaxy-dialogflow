@@ -1,0 +1,51 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "galaxy.fallback",
+    "promptTemplates": [ {
+      "displayName": "galaxy.fallback",
+      "promptText": "당신은 삼성전자 제품에 대한 정보를 답해주는 AI Assistant 입니다. \n지금까지 인간과 당신 사이의 대화는 다음과 같습니다.\n${conversation USER:\"Human:\" AGENT:\"AI\"}\n\n그런 다음 고객이 물었습니다.\n$last-user-utterance\n\n당신은 말합니다:"
+    } ]
+  },
+  "generativeSafetySettings": {
+    "raiSettings": {
+      "categoryFilters": [ {
+        "category": "DANGEROUS_CONTENT",
+        "filterLevel": "BLOCK_FEW"
+      }, {
+        "category": "SEXUALLY_EXPLICIT_CONTENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HARASSMENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HATE_SPEECH",
+        "filterLevel": "BLOCK_SOME"
+      } ]
+    },
+    "defaultRaiSettings": {
+      "categoryFilters": [ {
+        "category": "DANGEROUS_CONTENT",
+        "filterLevel": "BLOCK_FEW"
+      }, {
+        "category": "SEXUALLY_EXPLICIT_CONTENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HARASSMENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HATE_SPEECH",
+        "filterLevel": "BLOCK_SOME"
+      } ]
+    }
+  },
+  "languageCode": "ko",
+  "knowledgeConnectorSettings": {
+    "business": "TPCG",
+    "mainLlmConfig": {
+    
+    }
+  },
+  "llmModelSettings": {
+  
+  }
+}

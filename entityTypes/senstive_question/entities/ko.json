@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "단종되나요?",
+    "synonyms": [ "단종되나요?", "단종될까?", "생산 중단되나요?" ],
+    "languageCode": "ko"
+  }, {
+    "value": "몇대 팔렸어?",
+    "synonyms": [ "몇대 팔렸어?", "몊 대 팔렸어?" ],
+    "languageCode": "ko"
+  } ]
+}

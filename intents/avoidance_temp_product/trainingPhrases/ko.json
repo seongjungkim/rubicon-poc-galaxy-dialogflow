@@ -1,0 +1,89 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "갤럭시",
+      "parameterId": "product",
+      "auto": true
+    }, {
+      "text": "가",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "보다 좋은점을 알려주세요.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "으로 사진 찍는 거랑 "
+    }, {
+      "text": "갤럭시",
+      "parameterId": "product"
+    }, {
+      "text": "로 사진 찍는 거랑 어떤게 더 잘 나와"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최신 "
+    }, {
+      "text": "아이폰",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "이 제 "
+    }, {
+      "text": "갤럭시 S24",
+      "parameterId": "product",
+      "auto": true
+    }, {
+      "text": "보다 얼마나 좋아?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 s23 플러스",
+      "parameterId": "product",
+      "auto": true
+    }, {
+      "text": "가",
+      "auto": true
+    }, {
+      "text": " 출시되고나서 ",
+      "auto": true
+    }, {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": "전자"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "주식",
+      "parameterId": "forbidden_word",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 올랐을까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

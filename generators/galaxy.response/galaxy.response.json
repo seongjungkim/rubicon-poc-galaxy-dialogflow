@@ -1,0 +1,13 @@
+{
+  "name": "1e83aed1-55dc-488d-a9ea-5e5da223ae9c",
+  "displayName": "galaxy.response",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

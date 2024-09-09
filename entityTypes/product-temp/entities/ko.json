@@ -1,0 +1,27 @@
+{
+  "entities": [ {
+    "value": "갤럭시 S23 ",
+    "synonyms": [ "갤23", "갤럭시 S23", "갤럭시s23", "갤럭시S23", "Galaxy 23", "Galaxy23" ],
+    "languageCode": "ko"
+  }, {
+    "value": "갤럭시 S24",
+    "synonyms": [ "갤24", "갤럭시 s24", "갤럭시 S24", "갤럭시s24", "갤럭시S24", "Galaxy 24", "Galaxy24", "S24" ],
+    "languageCode": "ko"
+  }, {
+    "value": "갤럭시 S23+",
+    "synonyms": [ "갤럭시 S23+", "갤럭시 S23 플러스" ],
+    "languageCode": "ko"
+  }, {
+    "value": "갤럭시 S24+",
+    "synonyms": [ "갤럭시 S24+", "갤럭시 S24 플러스" ],
+    "languageCode": "ko"
+  }, {
+    "value": "갤럭시 S23 Ultra",
+    "synonyms": [ "갤럭시 S23 울트라", "갤럭시 S23 Ultra" ],
+    "languageCode": "ko"
+  }, {
+    "value": "갤럭시 S24 Ultra",
+    "synonyms": [ "갤럭시 S24 울트라", "갤럭시 S24 Ultra" ],
+    "languageCode": "ko"
+  } ]
+}

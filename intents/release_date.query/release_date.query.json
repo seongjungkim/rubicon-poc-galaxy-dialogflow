@@ -1,0 +1,16 @@
+{
+  "name": "9d29ca1f-c466-4ceb-8c93-e39864697699",
+  "displayName": "release_date.query",
+  "parameters": [ {
+    "id": "related_date",
+    "entityType": "@related_date"
+  }, {
+    "id": "product-temp",
+    "entityType": "@product-temp"
+  }, {
+    "id": "date",
+    "entityType": "@sys.date"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

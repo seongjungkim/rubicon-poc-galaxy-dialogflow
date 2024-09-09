@@ -1,0 +1,17 @@
+{
+  "name": "f4e499af-75a6-4d83-a874-d358e51f743e",
+  "displayName": "relate.generators",
+  "placeholders": [ {
+    "id": "intent",
+    "name": "intent"
+  } ],
+  "modelParameter": {
+    "temperature": 0.1,
+    "maxDecodeSteps": 2132,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

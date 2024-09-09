@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "아래 대화 내용을 간단하게 요약해주세요.\n$conversation",
+    "languageCode": "ko"
+  } ]
+}

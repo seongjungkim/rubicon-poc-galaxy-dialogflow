@@ -1,0 +1,10 @@
+{
+  "name": "baf3b834-685b-455f-be83-d4f417b5ea9c",
+  "displayName": "price.query",
+  "parameters": [ {
+    "id": "price",
+    "entityType": "@price"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 9
+}

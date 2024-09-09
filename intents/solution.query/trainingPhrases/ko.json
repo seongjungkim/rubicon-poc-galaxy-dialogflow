@@ -1,0 +1,182 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "갤럭시 스마트폰 "
+    }, {
+      "text": "유심(USIM)/심카드 인식",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "이 안 돼요."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S23 "
+    }, {
+      "text": "카메라를 어떻게 사용",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "할 수 있어?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24에서 "
+    }, {
+      "text": "음성메모하는 방법",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": " 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S23",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "보호필름교체방법",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "을 알려줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24 "
+    }, {
+      "text": "잠금화면 활용 방법?",
+      "parameterId": "solve_it_myself"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "카메라",
+      "auto": true
+    }, {
+      "text": "를 "
+    }, {
+      "text": "사용 방법",
+      "parameterId": "method"
+    }, {
+      "text": "을 가르쳐줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S23"
+    }, {
+      "text": " 시리즈 "
+    }, {
+      "text": "봉인 라벨 제거",
+      "parameterId": "solve_it_myself"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S23"
+    }, {
+      "text": " "
+    }, {
+      "text": "보호필름 부착",
+      "parameterId": "solve_it_myself"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24"
+    }, {
+      "text": ", "
+    }, {
+      "text": "스와이프 제스처",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "(아래에서 위로, "
+    }, {
+      "text": "제스처",
+      "auto": true
+    }, {
+      "text": " 힌트) "
+    }, {
+      "text": "활성화 방법",
+      "parameterId": "method"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "S24"
+    }, {
+      "text": " "
+    }, {
+      "text": "실시간 통역 기능",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "은 어떻게 "
+    }, {
+      "text": "사용",
+      "parameterId": "method"
+    }, {
+      "text": "하는건가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24, 통화 중 AI "
+    }, {
+      "text": "실시간 통역",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": " "
+    }, {
+      "text": "사용",
+      "parameterId": "method"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24"
+    }, {
+      "text": ", 새로운 "
+    }, {
+      "text": "기능",
+      "auto": true
+    }, {
+      "text": "‘서클로 검색'",
+      "parameterId": "solve_it_myself"
+    }, {
+      "text": "사용",
+      "parameterId": "method"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24"
+    }, {
+      "text": ", "
+    }, {
+      "text": "메시지 알림음"
+    }, {
+      "text": "을 어떻게 "
+    }, {
+      "text": "변경",
+      "parameterId": "method"
+    }, {
+      "text": "하나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

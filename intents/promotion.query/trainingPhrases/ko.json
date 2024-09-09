@@ -1,0 +1,57 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "2024년 1월2일",
+      "parameterId": "date-time1",
+      "auto": true
+    }, {
+      "text": "이라고 ",
+      "auto": true
+    }, {
+      "text": "가정",
+      "auto": true
+    }, {
+      "text": "을 하고, ",
+      "auto": true
+    }, {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "갤럭시 S24",
+      "auto": true
+    }, {
+      "text": "를 가장 ",
+      "auto": true
+    }, {
+      "text": "혜택",
+      "auto": true
+    }, {
+      "text": " 좋게 구매할 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있는 ",
+      "auto": true
+    }, {
+      "text": "방법",
+      "auto": true
+    }, {
+      "text": "을 알려주세요.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "5f461539-13eb-4786-b257-f1591473ea4d",
+  "displayName": "get_release_date",
+  "genericWebService": {
+    "uri": "https://dialogflow-fulfillment-jr6kniykka-du.a.run.app/solution/get_release_date"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

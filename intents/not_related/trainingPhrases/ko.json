@@ -1,0 +1,41 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "삼성",
+      "auto": true
+    }, {
+      "text": "전자의",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "채용",
+      "parameterId": "no_relation",
+      "auto": true
+    }, {
+      "text": " 담당자",
+      "auto": true
+    }, {
+      "text": "가",
+      "auto": true
+    }, {
+      "text": " 누군지 ",
+      "auto": true
+    }, {
+      "text": "알",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있을까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

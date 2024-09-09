@@ -1,0 +1,10 @@
+{
+  "name": "53124a50-d623-45fa-9843-d5840730c9eb",
+  "displayName": "product.description",
+  "genericWebService": {
+    "uri": "https://dialogflow-fulfillment-jr6kniykka-du.a.run.app/product/description"
+  },
+  "timeout": {
+    "seconds": 20
+  }
+}

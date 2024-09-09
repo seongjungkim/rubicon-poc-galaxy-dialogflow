@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "비용",
+    "synonyms": [ "가격", "비용" ],
+    "languageCode": "ko"
+  }, {
+    "value": "얼마",
+    "synonyms": [ "얼마", "얼마야?" ],
+    "languageCode": "ko"
+  } ]
+}

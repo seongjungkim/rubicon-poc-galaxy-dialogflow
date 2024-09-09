@@ -1,0 +1,16 @@
+{
+  "name": "4084151c-c029-4fc9-8f0c-8f019fbdc703",
+  "displayName": "galaxy.query",
+  "parameters": [ {
+    "id": "attribute",
+    "entityType": "@attribute"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

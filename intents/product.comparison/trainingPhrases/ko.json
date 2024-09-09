@@ -1,0 +1,73 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "S24",
+      "parameterId": "product",
+      "auto": true
+    }, {
+      "text": " 시리즈 중 ",
+      "auto": true
+    }, {
+      "text": "하나",
+      "auto": true
+    }, {
+      "text": "를 ",
+      "auto": true
+    }, {
+      "text": "사고",
+      "auto": true
+    }, {
+      "text": "싶은데 제품끼리 비교좀 해줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갤럭시 S24",
+      "parameterId": "product",
+      "auto": true
+    }, {
+      "text": " 시리즈와 "
+    }, {
+      "text": "갤럭시 S23",
+      "parameterId": "product"
+    }, {
+      "text": " 시리즈의 각 모델 별 "
+    }, {
+      "text": "배터리 용량"
+    }, {
+      "text": " 비교해줘"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "SM-S928NZYNKOO",
+      "parameterId": "model"
+    }, {
+      "text": "와 "
+    }, {
+      "text": "SM-S928NZYEKOD",
+      "parameterId": "model"
+    }, {
+      "text": "가 어떤 부분이 다른가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "SM-S711NZOWKOO",
+      "parameterId": "model"
+    }, {
+      "text": "와 "
+    }, {
+      "text": "SM-S921NZAFKOO",
+      "parameterId": "model"
+    }, {
+      "text": "는 어떻게 다른가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

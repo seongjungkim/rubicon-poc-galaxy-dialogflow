@@ -1,0 +1,15 @@
+{
+  "name": "d9f927c7-97d3-4822-a2fd-37cd25b95a6c",
+  "displayName": "product.comparison",
+  "parameters": [ {
+    "id": "model",
+    "entityType": "@model",
+    "isList": true
+  }, {
+    "id": "product",
+    "entityType": "@product",
+    "isList": true
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

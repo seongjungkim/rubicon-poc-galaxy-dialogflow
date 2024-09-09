@@ -1,0 +1,13 @@
+{
+  "name": "a8f171c2-312e-4503-b0fa-23ef106aaf75",
+  "displayName": "solution.query",
+  "parameters": [ {
+    "id": "method",
+    "entityType": "@method"
+  }, {
+    "id": "solve_it_myself",
+    "entityType": "@solve_it_myself"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 13
+}

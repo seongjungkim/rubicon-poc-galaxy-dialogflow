@@ -1,0 +1,39 @@
+{
+  "name": "929918f1-bfa3-483d-ab36-d64f1887703b",
+  "displayName": "Product Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "product.description",
+    "tag": "product description"
+  },
+  "knowledgeConnectorSettings": {
+    "enabled": true,
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.knowledge.answers[0]" ]
+        },
+        "languageCode": "ko"
+      } ]
+    },
+    "dataStoreConnections": [ {
+      "dataStoreType": "PUBLIC_WEB",
+      "dataStore": "projects/468988240927/locations/global/collections/default_collection/dataStores/samsung-dummy-chat_1720412835930",
+      "languageCode": "ko",
+      "documentProcessingMode": "DOCUMENTS",
+      "aclConfig": {
+      
+      }
+    }, {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/468988240927/locations/global/collections/default_collection/dataStores/samsung-text-chat_1720414341227",
+      "languageCode": "ko",
+      "documentProcessingMode": "DOCUMENTS",
+      "aclConfig": {
+      
+      }
+    } ]
+  }
+}
